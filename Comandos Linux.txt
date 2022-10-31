@@ -1,0 +1,5 @@
+cd /var/www/html/linux-site-dio-main
+
+chmod +x script_apache.sh
+
+./script_apache.sh
